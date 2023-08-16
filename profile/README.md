@@ -1,4 +1,4 @@
-# Korynitia
+# Koryntia
 
 This is the description of the actual repository system on Koryintia.
 
