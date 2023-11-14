@@ -8,7 +8,7 @@ This is the description of the actual repository system on Koryintia.
 - [Web App](https://github.com/Koryntia/KoryntiaWebApp)
 
 Deprecated
-- [HTML Venter Demo](https://github.com/Koryntia/nft-protocol-demo)   -> Deprecated in favour of the [Smart Contract IU]
+- [HTML Venter Demo](https://github.com/Koryntia/nft-protocol-demo)   -> Deprecated in favour of the [Smart Contract IU](https://github.com/Koryntia/simpleFrontendDemo__usingScaffoldETH)
 - [HTML Venter y Martin Demo](https://github.com/Koryntia/html-demo)  -> Deprecated in favour of the [Smart Contract IU](https://github.com/Koryntia/simpleFrontendDemo__usingScaffoldETH)
 
 ## 🐭 V1 (Deprecated)
