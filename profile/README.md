@@ -3,7 +3,8 @@
 This is the description of the actual repository system on Koryintia.
 
 ## 🐢 V2 
-- [Smart Protocol](https://github.com/Koryntia/nft-protocol)
+- [NFT Documentation](https://www.notion.so/tianlu/NFT-Protocol-fa386b2ed4dd47ee91ac7042bd84889c?pvs=4)
+- [NFT Protocol](https://github.com/Koryntia/nft-protocol)
 - [Smart Contract UI](https://github.com/Koryntia/simpleFrontendDemo__usingScaffoldETH)
 - [Web App](https://github.com/Koryntia/KoryntiaWebApp)
 
