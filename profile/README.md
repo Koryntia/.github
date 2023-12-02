@@ -1,6 +1,6 @@
 # Koryntia
 
-This is the description of the actual repository system on Koryintia.
+This is the description of the actual repository system on Koryntia.
 
 ## 🐢 V2 
 - [NFT Documentation](https://www.notion.so/tianlu/NFT-Protocol-fa386b2ed4dd47ee91ac7042bd84889c?pvs=4)
