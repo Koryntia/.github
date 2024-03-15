@@ -22,3 +22,11 @@ Deprecated
 - [Hackaton](https://github.com/Koryntia/hackathon)
 - [Smart Contract](https://github.com/Koryntia/hackathon-smart-contract)
 - [MVP Smart Contract](https://github.com/Koryntia/koryntia-mvp-smart-contract)
+
+## 📄 Project Docs
+
+- [Koryntia Whitepaper V2](https://github.com/Koryntia/Koryntia-Whitepaper-V2/blob/main/Koryntia_%20Whitepaper%20V2.pdf) (09/2023)
+- [Koryntia Whitepaper Tokenomics V1](https://github.com/Koryntia/koryntia-whitepaper-tokenomics/blob/main/Koryntia%20-%20Whitepaper%20%20%26%20Tokenomics%20-%202023.pdf) (02/2023)
+- [Koryntia Whitepaper V1](https://github.com/Koryntia/Koryntia-V1-Whitepaper/blob/main/Koryntia%20V1%20Whitepaper.pdf) (10/2021)
+- [KOTYA Token Concept V1](https://github.com/Koryntia/KOTYA-Token-Concept-V1-) (10/2021)
+  
