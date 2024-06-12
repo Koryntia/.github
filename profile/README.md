@@ -7,6 +7,7 @@ This is the description of the actual repository system on Koryntia.
 - [NFT Protocol](https://github.com/Koryntia/nft-protocol)
 - [Smart Contract UI](https://github.com/Koryntia/simpleFrontendDemo__usingScaffoldETH)
 - [Web App](https://github.com/Koryntia/KoryntiaWebApp)
+- [Landing Page](https://github.com/Koryntia/koryntia-landing)
 
 Deprecated
 - [HTML Venter Demo](https://github.com/Koryntia/nft-protocol-demo)   -> Deprecated in favour of the [Smart Contract IU](https://github.com/Koryntia/simpleFrontendDemo__usingScaffoldETH)
