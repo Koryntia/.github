@@ -14,7 +14,6 @@ Deprecated
 - [HTML Venter y Martin Demo](https://github.com/Koryntia/html-demo)  -> Deprecated in favour of the [Smart Contract IU](https://github.com/Koryntia/simpleFrontendDemo__usingScaffoldETH)
 
 ## 🐭 V1 (Deprecated)
-- [Landing Page](https://github.com/Koryntia/koryntia-landing)
 - [Smart Contract](https://github.com/Koryntia/koryntia-mvp-smart-contract)
 - [App](https://github.com/Koryntia/koryntia-webapp)
 
