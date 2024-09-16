@@ -1,6 +1,9 @@
 # Koryntia
+![koryntia_banner](https://github.com/user-attachments/assets/28ea6de5-230d-41a2-9deb-c04d141f61b0)
 
 This is the description of the actual repository system on Koryntia.
+
+
 
 ## 🪙 $KOTYA
 - [Koryntia Token (KOTYA)](https://github.com/Koryntia/Koryntia-Token)
