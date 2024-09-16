@@ -6,6 +6,8 @@ This is the description of the actual repository system on Koryntia.
 
 
 ## 🪙 $KOTYA
+![$KOTYA](https://github.com/user-attachments/assets/174d69e1-c516-4d41-a755-64c8649ad791)
+
 - [Koryntia Token (KOTYA)](https://github.com/Koryntia/Koryntia-Token)
 
 ## 🐢 V2 
