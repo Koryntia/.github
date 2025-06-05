@@ -1,13 +1,12 @@
 # Koryntia
-![koryntia_banner](https://github.com/user-attachments/assets/28ea6de5-230d-41a2-9deb-c04d141f61b0)
+
+![Koryntia banner ](https://github.com/user-attachments/assets/2a6c9069-bb43-42c1-b3f3-610e723cf9f9)
 
 This is the description of the actual repository system on Koryntia.
 
 
 
 ## 🪙 $KOTYA
-![$KOTYA](https://github.com/user-attachments/assets/174d69e1-c516-4d41-a755-64c8649ad791)
-
 - [Koryntia Token (KOTYA)](https://github.com/Koryntia/Koryntia-Token)
 
 ## 🐢 V2 
