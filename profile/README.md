@@ -4,10 +4,8 @@
 
 This is the description of the actual repository system on Koryntia.
 
-
-
-## 🪙 $KOTYA
-- [Koryntia Token (KOTYA)](https://github.com/Koryntia/Koryntia-Token)
+## 🐅 V3 
+- Soon...
 
 ## 🐢 V2 
 - [NFT Documentation](https://www.notion.so/tianlu/NFT-Protocol-fa386b2ed4dd47ee91ac7042bd84889c?pvs=4)
@@ -23,6 +21,9 @@ Deprecated
 ## 🐭 V1 (Deprecated)
 - [Smart Contract](https://github.com/Koryntia/koryntia-mvp-smart-contract)
 - [App](https://github.com/Koryntia/koryntia-webapp)
+
+## 🪙 $KOTYA
+- [Koryntia Token (KOTYA)](https://github.com/Koryntia/Koryntia-Token)
 
 ## 🐷 Hackaton
 - [Hackaton](https://github.com/Koryntia/hackathon)
