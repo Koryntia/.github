@@ -4,8 +4,8 @@
 
 This is the description of the actual repository system on Koryntia.
 
-## 🐅 V3 
-- Soon...
+## 🐅 V3 (In Progress)
+- [Koryntia V3 MVP](https://github.com/Koryntia/koryntia-v3-mvp) 
 
 ## 🐢 V2 
 - [NFT Documentation](https://www.notion.so/tianlu/NFT-Protocol-fa386b2ed4dd47ee91ac7042bd84889c?pvs=4)
