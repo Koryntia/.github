@@ -22,7 +22,7 @@ Deprecated
 - [Smart Contract](https://github.com/Koryntia/koryntia-mvp-smart-contract)
 - [App](https://github.com/Koryntia/koryntia-webapp)
 
-## 🪙 $KOTYA
+## 🪙 $KOTYA (Deprecated)
 - [Koryntia Token (KOTYA)](https://github.com/Koryntia/Koryntia-Token)
 
 ## 🐷 Hackaton
