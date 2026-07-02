@@ -1,8 +1,16 @@
-# Koryntia
+# Koryntia (Archived)
+
+Koryntia is no longer an active project.
+
+Our work has evolved into **Satolink**, focused on building self-custodial Bitcoin payment links powered by the Lightning Network.
+
+⚡ Website: https://satolink.com
+
+⚡ X: https://x.com/satolinkbtc
 
 ![Koryntia banner ](https://github.com/user-attachments/assets/2a6c9069-bb43-42c1-b3f3-610e723cf9f9)
 
-This is the description of the actual repository system on Koryntia.
+Legacy repositories
 
 ## 🐅 V3 (🧡🧡₿💲📈💸🌐⛓️🧱)
 - [Koryntia V3 Mainnet live (Arbitrum)](https://github.com/Koryntia/koryntia-v3-mvp)
